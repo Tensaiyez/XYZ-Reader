@@ -1,9 +1,0 @@
-= XYZ Reader
-
-📚 A mock RSS feed reader featuring banner photos and headlines. Uses Material Design guidelines and uses transitions and motions effectively
-#MainActivity
-
-![ezgif com-resize (2)](https://user-images.githubusercontent.com/42677333/68045921-07b19400-fcb1-11e9-8d20-bad6447cad87.jpg)
-
-![ezgif com-resize (1)](https://user-images.githubusercontent.com/42677333/68045927-0aac8480-fcb1-11e9-9bfc-05b12fc58484.jpg)
-![ezgif com-resize](https://user-images.githubusercontent.com/42677333/68045929-0bddb180-fcb1-11e9-9d0f-7d6a4b35eceb.jpg)
