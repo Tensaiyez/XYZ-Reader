@@ -1,4 +1,4 @@
- XYZ Reader
+# XYZ Reader
 
 📚 A mock RSS feed reader featuring banner photos and headlines. Uses Material Design guidelines and uses transitions and motions effectively. 
 
