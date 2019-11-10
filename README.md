@@ -8,7 +8,7 @@
 
 ## **DetailActivity**
 
-![ezgif com-resize (2)](https://user-images.githubusercontent.com/42677333/68046132-7ee72800-fcb1-11e9-8fa7-ac3f7d70a6b8.jpg)
+![ezgif com-resize (2)](https://user-images.githubusercontent.com/42677333/68046132-7ee72800-fcb1-11e9-8fa7-ac3f7d70a6b8.jpg)&nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;&nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;
 ![ezgif com-resize](https://user-images.githubusercontent.com/42677333/68046128-7abb0a80-fcb1-11e9-8f64-3ad6024b85e0.jpg)
 
 ## Project Overview
